@@ -8,7 +8,7 @@
     color: white;
     margin-top: 0px;
 
-    height: 500px;
+    height: 600px;
 
     display: flex;
     flex-direction: column;
@@ -22,8 +22,18 @@
 
 }
 
+.taitorubun {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.tuirinku {
+    font-size: 20px;
+    border-bottom: white 2px;
+}
+
 .mytitle > button {
-    width: 175px;
+    width: 150px;
     height: 50px;
 
     background-color: transparent;
@@ -37,7 +47,7 @@
 
 .mytitle > button:hover {
     border: 3px solid white;
-    background-color: white;
+    background-color: #2f99ff;
     color: black;
 
 }
@@ -57,19 +67,6 @@
 
 .mycomment {
     color: gray;
-}
-
-.mybtn {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-
-    margin-top: 20px;
-}
-
-.mybtn > button {
-    margin-right: 10px;
 }
 
 .mycards {
@@ -96,4 +93,18 @@ a:hover {
     color: #e1e1e1;
 }
 
+.tagu {
+    color: #ff9f44;
+}
+
+.input-group-text {
+    color: #000000;
+    background-color: #a1a1a1;
+    border-color: #333333;
+}
+
+.form-select {
+    color: #000000;
+    background-color: #ffffff;
+}
 
