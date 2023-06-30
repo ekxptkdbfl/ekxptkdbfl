@@ -21,6 +21,13 @@
 
 }
 
+.tuittaaikon {
+    width: 25px;
+    height: 25px;
+    color: white;
+    text-decoration: underline;
+}
+
 .SearchBox {
     align-items: center;
 }
@@ -37,6 +44,7 @@
 
 .taitorubun {
     margin-top: 200px;
+    text-align: center;
 }
 
 .kensakubunshou {
