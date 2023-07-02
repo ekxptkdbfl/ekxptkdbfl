@@ -8,7 +8,7 @@
     color: white;
     margin-top: 0px;
 
-    height: 600px;
+    height: 35%;
 
     display: flex;
     flex-direction: column;
@@ -19,6 +19,10 @@
     background-position: top;
     background-size: cover;
 
+}
+
+.linkbutton {
+    margin-bottom: 10px;
 }
 
 .tuittaaikon {
