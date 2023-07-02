@@ -99,10 +99,8 @@
 }
 
 .mycards {
-    width: auto;
-    margin: auto 20px 50px 20px;
-
-    align-content: center;
+    width: 80%;
+    margin: auto 10% 50px 10%;
 }
 
 .card-text {
