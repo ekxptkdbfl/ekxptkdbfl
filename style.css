@@ -38,8 +38,9 @@
 }
 
 .zabokkusu {
-    margin-inline-start: 120px;
-    margin-inline-end: 120px;
+    width: 100%;
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
 }
 
 .taitorubun {
