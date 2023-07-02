@@ -101,7 +101,7 @@
 .col {
     margin: 0px 15% 0px 15%;
     background-color: #fff;
-    border: 1px solid rgba(0, 0, 0, .125);
+    border: 1.25px solid rgba(0, 0, 0, .15);
 }
 
 .kadonaiyo {
