@@ -22,7 +22,7 @@
 }
 
 .linkbutton {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .tuittaaikon {
@@ -98,22 +98,24 @@
     margin-top: 00px;
 }
 
-.mycomment {
-    color: gray;
+.col {
+    margin: 0px 15% 0px 15%;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .125);
 }
 
-.mycards {
-    width: 80%;
-    margin: auto 10% 50px 10%;
+.kadonaiyo {
+    margin-bottom: 0px;
 }
 
-.card-text {
-    background: #949494;
+.accordion-button.collapsed::after {
+    fixed-right;
 }
 
-.col:hover {
-    box-shadow: 0px 0px 3px 0px lightslategray;
-
+.accordion-button:not(.collapsed) {
+    color: #2a2a2a;
+    background-color: #ded1ff;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .125);
 }
 
 a {
@@ -126,10 +128,6 @@ a:hover {
     color: #e1e1e1;
 }
 
-.tagu {
-    color: #ff9f44;
-}
-
 .input-group-text {
     color: #000000;
     background-color: #c5c5c5;
@@ -140,4 +138,3 @@ a:hover {
     color: #000000;
     background-color: #ffffff;
 }
-
