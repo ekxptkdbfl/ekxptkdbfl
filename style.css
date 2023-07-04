@@ -113,6 +113,16 @@
     border: 1.25px solid rgba(0, 0, 0, 0.15);
 }
 
+.mundan {
+    margin-bottom: 20px;
+}
+
+.mundantitle {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
 p {
     display: block;
     margin-block-start: 0em;
@@ -144,6 +154,9 @@ p {
 
 .hareruyarink {
     color: #333333;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-bottom: 30px;
 }
 
 .hareruyarink:hover {
