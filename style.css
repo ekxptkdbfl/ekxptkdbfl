@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
 
 * {
-    font-family: 'Sawarabi Gothic', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 .mytitle {
@@ -108,7 +108,7 @@
 }
 
 .col {
-    margin: 0px 0% 0px 0%;
+    margin: 0px 5% 0px 5%;
     background-color: #fff;
     border: 1.25px solid rgba(0, 0, 0, 0.15);
 }
@@ -119,8 +119,8 @@ p {
     margin-block-end: 0em;
     margin-inline-start: 1px;
     margin-inline-end: 1px;
-    line-height: 30px;
-    font-size: 30px;
+    line-height: 35px;
+    font-size: 18px;
 }
 
 .kadonaiyo {
