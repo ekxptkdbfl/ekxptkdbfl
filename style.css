@@ -49,6 +49,7 @@
 }
 
 .taitorubun {
+    margin-top: 150px;
     text-align: center;
     margin-top: 600px;
 }
@@ -107,7 +108,7 @@
 }
 
 .col {
-    margin: 0px 15% 0px 15%;
+    margin: 0px 5% 0px 5%;
     background-color: #fff;
     border: 1.25px solid rgba(0, 0, 0, 0.15);
 }
@@ -129,6 +130,14 @@
 .imageof1 {
     width: 80%;
     position: center;
+}
+
+.hareruyarink {
+    color: #333333;
+}
+
+.hareruyarink:hover {
+    color: #ff9f44;
 }
 
 a {
