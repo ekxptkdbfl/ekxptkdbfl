@@ -126,6 +126,11 @@
     box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .125);
 }
 
+.imageof1 {
+    width: 80%;
+    position: center;
+}
+
 a {
     text-decoration-line: none;
     color: #ffffff;
