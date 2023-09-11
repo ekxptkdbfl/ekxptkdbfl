@@ -108,9 +108,10 @@
 }
 
 .col {
-    margin: 0px 5% 0px 5%;
+    margin: auto;
     background-color: #fff;
     border: 1.25px solid rgba(0, 0, 0, 0.15);
+    max-width: 1100px;
 }
 
 .mundan {
@@ -118,7 +119,7 @@
 }
 
 .mundantitle {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     margin-top: 10px;
 }
@@ -156,7 +157,7 @@ p {
     color: #333333;
     font-size: 35px;
     font-weight: bolder;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .hareruyarink:hover {
@@ -182,4 +183,12 @@ a:hover {
 .form-select {
     color: #000000;
     background-color: #ffffff;
+}
+
+.hoshinikibutai {
+    color: #333333;
+}
+
+.hoshinikibutai:hover {
+    color: #ff9f44;
 }
