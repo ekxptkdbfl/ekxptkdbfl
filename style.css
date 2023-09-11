@@ -166,12 +166,12 @@ p {
 
 a {
     text-decoration-line: none;
-    color: #ffffff;
+    color: #333333;
 }
 
 a:hover {
     text-decoration-line: none !important;
-    color: #e1e1e1;
+    color: #ff9f44;
 }
 
 .input-group-text {
