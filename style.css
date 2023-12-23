@@ -138,9 +138,6 @@ p {
     margin-bottom: 0px;
 }
 
-.accordion-button.collapsed::after {
-    fixed-right;
-}
 
 .accordion-button:not(.collapsed) {
     color: #2a2a2a;
@@ -155,8 +152,8 @@ p {
 
 .hareruyarink {
     color: #333333;
-    font-size: 35px;
-    font-weight: bolder;
+    font-size: 23px;
+    
     margin-bottom: 30px;
 }
 
@@ -166,12 +163,12 @@ p {
 
 a {
     text-decoration-line: none;
-    color: #333333;
+    color: #ffffff;
 }
 
 a:hover {
     text-decoration-line: none !important;
-    color: #ff9f44;
+    color: #e1e1e1;
 }
 
 .input-group-text {
